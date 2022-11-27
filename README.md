@@ -38,7 +38,7 @@
             
             
             
- Data set Like: Data set pickup from the yahoo finance "finance.yahoo.com"
+ Data set Link: Data set pickup from the yahoo finance "finance.yahoo.com"
  
  https://finance.yahoo.com/quote/AAPL/history/           
             
